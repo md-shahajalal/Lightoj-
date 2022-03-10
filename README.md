@@ -1,6 +1,3 @@
-# Problems-I-have-solved
-Here is some Problems I have solved
+# Problems-I-have-solved(Lightoj)
+101 problems
 
-
-
-I have solved 101 LightOj Problems
